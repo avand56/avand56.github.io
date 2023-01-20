@@ -12,15 +12,32 @@ redirect_from:
 Education
 ======
 * B.Sc. in Geophysics, Western University, 2020
-  * Honors Specialization.
   * Major GPA: 3.7.
 * M.Sc. in Geophysics, Western University, 2022 
-  * Collaborative Specialization in Multi-Hazard Risks and Resiliency.
   * GPA: 3.9.
 
 
 Work experience
 ======
+* August 2022 – February 2023: Machine Learning Engineer - Intern
+  * Autodesk 
+  * Working with the Neuron AI accelerator team to implement AI solutions throughout Autodesk products. 
+  * Assisted in model development of a neural network called PCRNet for point cloud registration in a linear feature extraction model.
+  * Developed data augmentation functions, TFRecord reader and writer, and data pipeline for cross project use.
+  * Hyperparameter tuning and training of model in AWS Sagemaker. Defined API and assisted with deployment.
+
+
+* May 2022 – August 2022: Summer Data Scientist/Associate
+  * The Boston Consulting Group (BCG)
+  * Supported development of an optimization algorithm and ANN to optimize profit for number of product facings at a large grocer, yielding an estimated $40-50 million in revenue increase yearly from the algorithm.
+  * Engineered features for revenue forecasting, QA, and brand analytics using Pyspark and productionized them.
+
+* July 2021 – May 2022: Data Science Intern
+  * Enverus 
+  * Developed a random forest algorithm to estimate production decline curves in Databricks using Python, SQL, and Pyspark. Computed MAE of 4.6 to determine model performance.
+  * Responsible for developing the ETL pipeline for QA/QC processes of production data using Pyspark and SQL.
+
+
 * 2020 - Present: Computational Seismology Research Assistant
   * Western University
   * As a research fellow for Dr. Sheri Molnar’s research group, I run large finite difference numerical simulations on the SHARCNET supercomputer consortium that simulate the anelastic wave equation and earthquake ground motions. The synthetic time series data are then compared to empirical data and other simulations to estimate the effects of topography, attenuation, source depth, mechanism and location of the earthquake.
@@ -61,9 +78,11 @@ Skills
 * Python
 * MATLAB
 * Linux
-* SQLite
-* GitHub
-* TensorFlow, Keras, Pytorch, SKlearn, Numpy, Pandas
+* SQL Server
+* Machine Learning
+* Data Analytics
+* Version Control (git using GitHub)
+* TensorFlow, Keras, Pytorch, SKlearn, Numpy, Pandas, Pyspark.
 * MS Excel, Word, and Powerpoint
 * Tableau
 
@@ -72,8 +91,7 @@ Publications
 ======
 * Thermal Conductivity of an Fe-Ni Alloy and Implications for Heat Flow in the Cores of Terrestrial Bodies
   * [Thesis: Thermal Conductivity of an Fe-Ni Alloy and Implications for Heat Flow in the Cores of Terrestrial Bodies](https://avand56.github.io/files/Thermal Conductivity of an FeNi Alloy and Implications for Heat Flow in the Lunar Core.pdf)
-  * [Thesis: Topographic Effects of Shallow Crustal Earthquakes in the Greater Vancouver Region]
-(https://avand56.github.io/files/Topographic Effects of Shallow Crustal Earthquakes in the Greater Vancouver Region.pdf)
+  * [Thesis: Topographic Effects of Shallow Crustal Earthquakes in the Greater Vancouver Region](https://avand56.github.io/files/Topographic Effects of Shallow Crustal Earthquakes in the Greater Vancouver Region_preliminary submission.pdf)
 
   
 Talks
@@ -87,6 +105,7 @@ Teaching
 ======
 * ES2232: Exploring the Planets
 * ES2123: The Dyanamic Earth
+* ES2220: Introductory Geophysics
   
   
 Awards
